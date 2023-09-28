@@ -1,0 +1,71 @@
+.banner-left{
+    padding-left: 50px;
+    font-family: cursive;
+    width: 400px;
+
+    
+}
+
+span{
+    color: tomato;
+}
+h3{
+    padding-top: 5px;
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+    font-weight: 50px;
+    padding-top: 10px;
+}
+
+.banner-right img{
+    width: 500px;
+    height: auto;
+    padding-right: 50px;
+}
+#banner{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.button{
+    padding: 10px 15px;
+    background: linear-gradient(to right, #f12711, #f5af19);
+    border: 0;
+    border-radius: 10px;
+}
+#banner-2{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+#experience{
+    display: flex;
+    padding:0px 50px 0px 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+}
+.developer{
+      box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,     rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    padding: 20px 20px 20px 20px;
+    height: 300px;
+    width: 400px;
+}
+#contact{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.facebook{
+    height: 100px;
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,     rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    padding: 20px 20px 20px 20px;
+    align-items: center;
+}
